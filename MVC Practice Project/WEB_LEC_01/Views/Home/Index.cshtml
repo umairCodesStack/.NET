@@ -1,0 +1,34 @@
+﻿@using WEB_LEC_01.Models
+@model List<Product>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body >
+   <table border="1" cellspacing="2">
+       <tr>
+           <th>ID</th>
+           <th>Name</th>
+           <th>Description</th>
+            
+       </tr>
+       
+            @foreach (Product product in @Model)
+            {
+                <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                </tr>
+                
+            }
+       
+   </table>
+    
+
+    
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEB_LEC_01.props" />
+</Project>

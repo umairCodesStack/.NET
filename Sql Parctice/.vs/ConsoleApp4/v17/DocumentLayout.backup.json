@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\umair\\source\\repos\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\consoleapp4\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\consoleapp4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D0F20A-8FB4-40E9-8BF2-99481C61459A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Person.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Person.cs",
+              "RelativeToolTip": "ConsoleApp4\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:46:50.067Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:09:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Patient.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Patient.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Patient.cs",
+              "RelativeToolTip": "ConsoleApp4\\Patient.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:06:30.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

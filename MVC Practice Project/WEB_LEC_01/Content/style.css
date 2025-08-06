@@ -1,0 +1,12 @@
+.loader1 {
+    height: 100px;
+    width: 100px;
+    border: 10px solid red;
+    border-left-color: white;
+    border-bottom-color: white;
+    border-radius: 100%;
+    animation: loader_animation 5s ease-in 0s infinite none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}

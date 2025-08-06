@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\views\\product\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\views\\product\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|c:\\users\\umair\\source\\repos\\lec_24_oct\\lec_24_oct\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BB2A9A-6476-46FC-BD7D-D296782FA473}|Lec_24_Oct\\Lec_24_Oct.csproj|solutionrelative:lec_24_oct\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Program.cs",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Program.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Program.cs",
+              "RelativeToolTip": "Lec_24_Oct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:38:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lec_24_Oct\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:20:36.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Product\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Views\\Product\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Product\\ViewCart.cshtml",
+              "RelativeToolTip": "Lec_24_Oct\\Views\\Product\\ViewCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:50:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Models\\Products.cs",
+              "RelativeToolTip": "Lec_24_Oct\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:06:44.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Views\\Product\\Products.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Product\\Products.cshtml",
+              "RelativeToolTip": "Lec_24_Oct\\Views\\Product\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:03:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lec_24_Oct\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:48:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lec_24_Oct\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:41:27.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lec_24_Oct\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Lec_24_Oct\\Lec_24_Oct\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lec_24_Oct\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:19:15.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

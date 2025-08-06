@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Umair\\Desktop\\Online_Election_Portal\\Online_Vote_Casting\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|c:\\users\\umair\\source\\repos\\dockertutorial\\dockertutorial\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6C33AD-C90D-4DAB-9DFD-86C7A605014C}|DockerTutorial\\DockerTutorial.csproj|solutionrelative:dockertutorial\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DockerTutorial\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\docker-compose.yml",
+              "RelativeToolTip": "DockerTutorial\\docker-compose.yml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-08T16:51:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerTutorial\\Dockerfile",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Dockerfile",
+              "RelativeToolTip": "DockerTutorial\\Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T16:48:31.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "DockerTutorial\\Views\\Home\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\AddStudent.cshtml",
+              "RelativeToolTip": "DockerTutorial\\Views\\Home\\AddStudent.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T14:01:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DockerTutorial\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DockerTutorial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:47:54.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\Student.cshtml",
+              "RelativeDocumentMoniker": "DockerTutorial\\Views\\Home\\Student.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\Student.cshtml",
+              "RelativeToolTip": "DockerTutorial\\Views\\Home\\Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:41:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DockerTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DockerTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:40:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DockerTutorial\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DockerTutorial\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:40:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DockerTutorial\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\Student.cs",
+              "RelativeToolTip": "DockerTutorial\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:47:38.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DockerTutorial\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "DockerTutorial\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:49:09.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DockerTutorial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DockerTutorial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:40:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerTutorial\\appsettings.json",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\appsettings.json",
+              "RelativeToolTip": "DockerTutorial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T09:53:26.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "DockerTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Program.cs",
+              "RelativeToolTip": "DockerTutorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:49:16.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\Desktop\\Online_Election_Portal\\Online_Vote_Casting\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Online_Election_Portal\\Online_Vote_Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\Umair\\Desktop\\Online_Election_Portal\\Online_Vote_Casting\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Online_Election_Portal\\Online_Vote_Casting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:50:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DockerTutorial\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\DockerTutorial\\DockerTutorial\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DockerTutorial\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:49:14.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿@using Lec_24_Oct.Models;
+@model List<Products>
+<html>
+	<body>
+		@foreach(Products p in Model)
+	    {
+		<div style="display:inline-block ;border: 2px solid black; height:150px; width:150px;">
+			<h4>@p.Id</h4>
+			<h4>@p.Name</h4>
+
+			<a href="/Product/AddToCart?MyId=@p.Id" type="submit">Add To Cart</a>
+ 		
+		</div>
+
+	    }
+	       <a href="/Product/ViewCart">View Cart</a>
+	</body>
+</html>

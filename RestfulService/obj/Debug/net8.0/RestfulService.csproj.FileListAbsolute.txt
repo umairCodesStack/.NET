@@ -1,0 +1,116 @@
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\appsettings.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.staticwebassets.endpoints.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.exe
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.deps.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.runtimeconfig.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\RestfulService.pdb
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfoInputs.cache
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfo.cs
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\scopedcss\bundle\RestfulService.styles.css
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.build.RestfulService.props
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestfulService.props
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestfulService.props
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulS.AD5D6E12.Up2Date
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\refint\RestfulService.dll
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.pdb
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\RestfulService.genruntimeconfig.cache
+C:\Users\PMLS\Desktop\SCD\RestfulService\obj\Debug\net8.0\ref\RestfulService.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\appsettings.Development.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\appsettings.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.staticwebassets.endpoints.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.exe
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.deps.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.runtimeconfig.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\RestfulService.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.csproj.AssemblyReference.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfoInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfo.cs
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.csproj.CoreCompileInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cs
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\scopedcss\bundle\RestfulService.styles.css
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.build.RestfulService.props
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestfulService.props
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestfulService.props
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulS.AD5D6E12.Up2Date
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\refint\RestfulService.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\RestfulService.genruntimeconfig.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\RestfulService\obj\Debug\net8.0\ref\RestfulService.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\appsettings.Development.json
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\appsettings.json
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.staticwebassets.endpoints.json
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.exe
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.deps.json
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.runtimeconfig.json
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\RestfulService.pdb
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files\C# and .NET core\RestfulService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.csproj.AssemblyReference.cache
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfoInputs.cache
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.AssemblyInfo.cs
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.csproj.CoreCompileInputs.cache
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cs
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\scopedcss\bundle\RestfulService.styles.css
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.RestfulService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.build.RestfulService.props
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestfulService.props
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestfulService.props
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulS.AD5D6E12.Up2Date
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.dll
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\refint\RestfulService.dll
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.pdb
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\RestfulService.genruntimeconfig.cache
+C:\Files\C# and .NET core\RestfulService\obj\Debug\net8.0\ref\RestfulService.dll

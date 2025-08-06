@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+RxqVHjeuA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Identity_in_MVC.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    }
+  ]
+}

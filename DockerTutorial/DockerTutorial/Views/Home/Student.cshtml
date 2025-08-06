@@ -1,0 +1,62 @@
+﻿@using DockerTutorial
+@model List<Student>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Records</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .add-student-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff; 
+            color: white; 
+            text-decoration: none; 
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px; 
+            border: none;
+         }
+    </style>
+</head>
+<body>
+
+    <h2>Student Records</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Roll Number</th>
+                <th>Name</th>
+                <th>Degree</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var i in Model)
+            {
+                <tr>
+                    <td>@i.RollNumber</td>
+                    <td>@i.Name</td>
+                    <td>@i.Degree</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Home" asp-action="AddStudent" class="add-student-btn">Add Student</a>
+</body>
+</html>

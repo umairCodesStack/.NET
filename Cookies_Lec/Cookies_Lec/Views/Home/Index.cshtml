@@ -1,0 +1,21 @@
+﻿@using Cookies_Lec.Models;
+@model List<Products>
+<html>
+<body>
+	@foreach (Products p in Model)
+	{
+		<div style="display:inline-block ;border: 2px solid black; height:150px; width:150px;">
+			<h4>@p.Id</h4>
+			<h4>@p.Name</h4>
+
+			<form asp-action="AddToCart" asp-controller="Product" method="post">
+				<input type="hidden" name="MyId" value="@p.Id" />
+				<button type="submit">Add to Cart</button>
+			</form>
+
+		</div>
+
+	}
+	<a href="/Product/AddToCart">View Cart</a>
+</body>
+</html>

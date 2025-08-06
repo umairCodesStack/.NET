@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|c:\\users\\umair\\source\\repos\\cookies_lec\\cookies_lec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|solutionrelative:cookies_lec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|c:\\users\\umair\\source\\repos\\cookies_lec\\cookies_lec\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|solutionrelative:cookies_lec\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|c:\\users\\umair\\source\\repos\\cookies_lec\\cookies_lec\\views\\home\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|solutionrelative:cookies_lec\\views\\home\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|c:\\users\\umair\\source\\repos\\cookies_lec\\cookies_lec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9BD16CF-9325-403A-9F2D-2EA9BA105F12}|Cookies_Lec\\Cookies_Lec.csproj|solutionrelative:cookies_lec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Views\\Home\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "Cookies_Lec\\Views\\Home\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Views\\Home\\ViewCart.cshtml",
+              "RelativeToolTip": "Cookies_Lec\\Views\\Home\\ViewCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:46:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cookies_Lec\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cookies_Lec\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:46:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Cookies_Lec\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Models\\Products.cs",
+              "RelativeToolTip": "Cookies_Lec\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:44:42.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cookies_Lec\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Cookies_Lec\\Cookies_Lec\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cookies_Lec\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:44:18.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

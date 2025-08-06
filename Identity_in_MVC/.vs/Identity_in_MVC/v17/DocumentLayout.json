@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|c:\\users\\umair\\source\\repos\\identity_in_mvc\\identity_in_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|solutionrelative:identity_in_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|c:\\users\\umair\\source\\repos\\identity_in_mvc\\identity_in_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|solutionrelative:identity_in_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|c:\\users\\umair\\source\\repos\\identity_in_mvc\\identity_in_mvc\\identity_in_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|solutionrelative:identity_in_mvc\\identity_in_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|c:\\users\\umair\\source\\repos\\identity_in_mvc\\identity_in_mvc\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9EC8D0-0651-4E7E-A919-E6C1B16B070A}|Identity_in_MVC\\Identity_in_MVC.csproj|solutionrelative:identity_in_mvc\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Identity_in_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Identity_in_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:17:50.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Identity_in_MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Identity_in_MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:51:08.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Identity_in_MVC\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Identity_in_MVC\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:49:45.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Identity_in_MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Identity_in_MVC.csproj",
+              "RelativeDocumentMoniker": "Identity_in_MVC\\Identity_in_MVC.csproj",
+              "ToolTip": "C:\\Users\\Umair\\source\\repos\\Identity_in_MVC\\Identity_in_MVC\\Identity_in_MVC.csproj",
+              "RelativeToolTip": "Identity_in_MVC\\Identity_in_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T15:47:50.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

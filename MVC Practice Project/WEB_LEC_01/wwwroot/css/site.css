@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+@keyframes loader_animation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+.loader1 {
+    height: 100px;
+    width: 100px;
+    border: 10px solid red;
+    border-left-color: white;
+    border-bottom-color: white;
+    border-radius: 100%;
+    animation: loader_animation 5s ease-in 0s infinite none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}

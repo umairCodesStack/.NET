@@ -1,0 +1,18 @@
+﻿
+
+<html>
+<body>
+    <h1>Selected Product</h1>
+    <h2>
+        @if (!string.IsNullOrEmpty(@Model))
+        {
+            <text>@Model</text>
+        }
+        else
+        {
+            <text>No item selected</text>
+        }
+    </h2>
+    <a href="/Product/Products">Back to Products</a>
+</body>
+</html>

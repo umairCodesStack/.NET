@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "luAR+MrR9zT/HsUK7Z//h0k8nC2Vu3i9EwpY3WgseY8=",
+  "Source": "RestfulService",
+  "BasePath": "_content/RestfulService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
