@@ -1,0 +1,14 @@
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\bin\Debug\net8.0\EDD_tech.exe
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\bin\Debug\net8.0\EDD_tech.deps.json
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\bin\Debug\net8.0\EDD_tech.runtimeconfig.json
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\bin\Debug\net8.0\EDD_tech.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\bin\Debug\net8.0\EDD_tech.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.AssemblyInfoInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.AssemblyInfo.cs
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.csproj.CoreCompileInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\refint\EDD_tech.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\EDD_tech.genruntimeconfig.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDD_tech\obj\Debug\net8.0\ref\EDD_tech.dll

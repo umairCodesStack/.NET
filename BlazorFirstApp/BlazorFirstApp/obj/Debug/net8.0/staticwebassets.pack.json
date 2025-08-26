@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorFirstApp\\BlazorFirstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorFirstApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorFirstApp.sm538xaj73.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorFirstApp\\BlazorFirstApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorFirstApp\\BlazorFirstApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorFirstApp\\BlazorFirstApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorFirstApp\\BlazorFirstApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorFirstApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorFirstApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorFirstApp.props",
+      "PackagePath": "build\\BlazorFirstApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorFirstApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorFirstApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorFirstApp.props",
+      "PackagePath": "buildTransitive\\BlazorFirstApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

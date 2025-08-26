@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp1\\blazorapp1\\components\\pages\\tempparnet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\tempparnet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp1\\blazorapp1\\controls\\templatedchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\controls\\templatedchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp1\\blazorapp1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp1\\blazorapp1\\controls\\bdchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\controls\\bdchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp1\\blazorapp1\\components\\pages\\dbcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE911D14-DE35-4292-AA2A-FC1BBBB5C47D}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\dbcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Model\\Product.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Model\\Product.cs",
+              "RelativeToolTip": "BlazorApp1\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:56:09.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TempParnet.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Components\\Pages\\TempParnet.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\TempParnet.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Components\\Pages\\TempParnet.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\TempParnet.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:54:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemplatedChildComponent.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Controls\\TemplatedChildComponent.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Controls\\TemplatedChildComponent.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Controls\\TemplatedChildComponent.razor",
+              "RelativeToolTip": "BlazorApp1\\Controls\\TemplatedChildComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:53:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BDChildComponent.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Controls\\BDChildComponent.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Controls\\BDChildComponent.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Controls\\BDChildComponent.razor",
+              "RelativeToolTip": "BlazorApp1\\Controls\\BDChildComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:41:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBcomponent.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Components\\Pages\\DBcomponent.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\DBcomponent.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp1\\BlazorApp1\\Components\\Pages\\DBcomponent.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\DBcomponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:40:56.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

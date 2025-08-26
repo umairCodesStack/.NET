@@ -1,0 +1,12 @@
+﻿@page "/EVCB"
+<h3>EventcallChildComponent</h3>
+
+<AComponent OnClickEventCallBack="@Method"></AComponent>
+<h1>@Message</h1>
+@code {
+    public string Message { set; get; } = "defalut";  
+    public void Method(){
+        Message = "Hello I am Umair Muthal per Muth 30 rupay";
+    }
+
+}

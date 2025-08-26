@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp2\\blazorapp2\\pages\\parent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\parent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp2\\blazorapp2\\controls\\child.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\controls\\child.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\blazorapp2\\blazorapp2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CCE000-75D5-43B5-B7CE-65E2AAB40892}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\_Imports.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp2\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:51:50.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "child.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\Controls\\child.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Controls\\child.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\Controls\\child.razor",
+              "RelativeToolTip": "BlazorApp2\\Controls\\child.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:50:36.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.razor",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\Pages\\Parent.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Parent.razor",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\BlazorApp2\\BlazorApp2\\Pages\\Parent.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Parent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:50:18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

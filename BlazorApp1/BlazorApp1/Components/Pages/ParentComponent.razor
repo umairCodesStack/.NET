@@ -1,0 +1,15 @@
+﻿@page "/pc"
+<h3>ParentComponent</h3>
+<CascadingValue Name="umair" Value="@Message">
+    <CascadingValue Name="hassan" Value="@ID">
+        <CascadingValue Name="ali"  Value="@AnotherMessage">
+            <ChildComponent></ChildComponent>
+        </CascadingValue>
+    </CascadingValue>
+</CascadingValue>
+@code {
+    public string Message { set; get; } = "I am from parent";
+    public int ID { get; set; } = 25;
+    public string AnotherMessage { set; get; } = "I am from parent and its another message";
+
+}

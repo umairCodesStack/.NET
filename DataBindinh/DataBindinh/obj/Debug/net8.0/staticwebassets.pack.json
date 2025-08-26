@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\DataBindinh\\DataBindinh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataBindinh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DataBindinh.t1gwy4wlul.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\DataBindinh\\DataBindinh\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\DataBindinh\\DataBindinh\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\DataBindinh\\DataBindinh\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\DataBindinh\\DataBindinh\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DataBindinh.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DataBindinh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DataBindinh.props",
+      "PackagePath": "build\\DataBindinh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DataBindinh.props",
+      "PackagePath": "buildMultiTargeting\\DataBindinh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DataBindinh.props",
+      "PackagePath": "buildTransitive\\DataBindinh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

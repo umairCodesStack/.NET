@@ -1,0 +1,21 @@
+﻿
+<div style="background-color:gold">
+    <h3>ChildComponent</h3>
+    <GrandChildComponent>
+    </GrandChildComponent>
+    <p>@Message</p>
+    <p>@Id</p>
+    <p>@MyMessage</p>
+
+
+</div>
+
+@code {
+    [CascadingParameter(Name ="umair")]
+    public string Message { set; get; } 
+    [CascadingParameter(Name ="hassan")]
+    public int Id { set; get; }
+    [CascadingParameter(Name ="ali")]
+    public string MyMessage { set; get; }
+
+}

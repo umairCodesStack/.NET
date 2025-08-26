@@ -1,0 +1,15 @@
+﻿@page "/tpc"
+@using BlazorApp1.Model
+<h3>TempParnet</h3>
+<TemplatedChildComponent Items="list">
+    <div>
+        <p>@context.Id</p>
+        <p>@context.Name</p>
+        <p>@context.Description</p>
+    </div>
+</TemplatedChildComponent>
+
+@code {
+    public List<Product> list = new List<Product>();
+
+}

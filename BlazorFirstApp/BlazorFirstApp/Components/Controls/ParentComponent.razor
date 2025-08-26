@@ -1,0 +1,13 @@
+﻿@page "/pc/{message}"
+<h3>ParentComponent</h3>
+<h2>@message</h2>
+@* <ChildComponent OnClickCallback="getMessage"></ChildComponent> *@
+@code {
+    [Parameter]
+     public string? message{ get; set; }
+    // public string? message;
+    // private void getMessage(string m)
+    // {
+    //     message = m;
+    // }    
+}

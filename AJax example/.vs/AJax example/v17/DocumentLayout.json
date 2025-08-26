@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\AJax example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D414C98-850B-45BE-B7EF-EC8119884237}|AJax example\\AJax example.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\ajax example\\ajax example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D414C98-850B-45BE-B7EF-EC8119884237}|AJax example\\AJax example.csproj|solutionrelative:ajax example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\AJax example\\AJax example\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AJax example\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\AJax example\\AJax example\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "AJax example\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:43:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

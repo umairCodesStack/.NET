@@ -1,0 +1,11 @@
+﻿@page "/DBC"
+<h3>DBcomponent</h3>
+<input type="number" value="@Number" />
+<button @onclick="@UpdateNumber">ClickMe</button>
+<BDChildComponent Num="@Number"></BDChildComponent>
+@code {
+    public int Number { get; set; } = 10;
+    public void UpdateNumber(){
+        Number += 1;
+    }
+}

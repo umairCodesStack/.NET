@@ -1,0 +1,12 @@
+﻿@page "/binder"
+<h3>binder</h3>
+<input type="number" @bind-value="@num">
+<button @onclick="updateVal">Update </button>
+<h2>@num</h2>
+@code
+{
+    int num = 10;
+    void updateVal(){
+        num = num + 1;
+    }
+}

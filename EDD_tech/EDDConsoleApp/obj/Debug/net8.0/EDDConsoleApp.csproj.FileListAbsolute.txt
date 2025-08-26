@@ -1,0 +1,14 @@
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.AssemblyInfoInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.AssemblyInfo.cs
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.csproj.CoreCompileInputs.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\bin\Debug\net8.0\EDDConsoleApp.exe
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\bin\Debug\net8.0\EDDConsoleApp.deps.json
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\bin\Debug\net8.0\EDDConsoleApp.runtimeconfig.json
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\bin\Debug\net8.0\EDDConsoleApp.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\bin\Debug\net8.0\EDDConsoleApp.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\refint\EDDConsoleApp.dll
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.pdb
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\EDDConsoleApp.genruntimeconfig.cache
+C:\Files\BSE 5th Sem\SCD\Solutions\EDD_tech\EDDConsoleApp\obj\Debug\net8.0\ref\EDDConsoleApp.dll

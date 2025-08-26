@@ -1,0 +1,16 @@
+﻿
+@page "/mpc"
+@page "/mpc/{Title}"
+
+<h3>Component</h3>
+<p>@Title</p>
+@code {
+    [Parameter]
+    public string Title{ get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Title = Title ?? "default umair gando";
+    }
+}

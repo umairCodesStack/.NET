@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535BB1B-223B-4432-AE74-1EC8D6C3B2A8}|SystemFacadeTests\\Tests.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\systemfacadetests\\systemfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BB1B-223B-4432-AE74-1EC8D6C3B2A8}|SystemFacadeTests\\Tests.csproj|solutionrelative:systemfacadetests\\systemfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535BB1B-223B-4432-AE74-1EC8D6C3B2A8}|SystemFacadeTests\\SystemFacadeTests.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\systemfacadetests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BB1B-223B-4432-AE74-1EC8D6C3B2A8}|SystemFacadeTests\\SystemFacadeTests.csproj|solutionrelative:systemfacadetests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\exceptions\\invalidoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\exceptions\\invalidoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\systemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\systemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A05388-31A1-475E-ADEC-FBA02F33EF91}|EDD_tech\\EDD_tech.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\edd_tech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A05388-31A1-475E-ADEC-FBA02F33EF91}|EDD_tech\\EDD_tech.csproj|solutionrelative:edd_tech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\repairjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\repairjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\notifieradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\notifieradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\simplepricingstratogey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\simplepricingstratogey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\patterns\\pricingstratogey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\patterns\\pricingstratogey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\repo\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\repo\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\repairtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\repairtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|c:\\files\\bse 5th sem\\scd\\solutions\\edd_tech\\eddconsoleapp\\consoleapp\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EAE337-8A2C-4753-AB8D-1C1BBFC5AFBA}|EDDConsoleApp\\EDDConsoleApp.csproj|solutionrelative:eddconsoleapp\\consoleapp\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemFacadeTests.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\SystemFacadeTests\\SystemFacadeTests.cs",
+              "RelativeDocumentMoniker": "SystemFacadeTests\\SystemFacadeTests.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\SystemFacadeTests\\SystemFacadeTests.cs",
+              "RelativeToolTip": "SystemFacadeTests\\SystemFacadeTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:03:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\SystemFacadeTests\\Program.cs",
+              "RelativeDocumentMoniker": "SystemFacadeTests\\Program.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\SystemFacadeTests\\Program.cs",
+              "RelativeToolTip": "SystemFacadeTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:02:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidOperationException.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\InvalidOperationException.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Exceptions\\InvalidOperationException.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\InvalidOperationException.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Exceptions\\InvalidOperationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:42:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemFacade.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\SystemFacade.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\SystemFacade.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\SystemFacade.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\SystemFacade.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:31:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\Program.cs",
+              "RelativeToolTip": "EDDConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:22:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Menu\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Menu\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Menu\\ConsoleMenu.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Menu\\ConsoleMenu.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:31:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepairJob.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\RepairJob.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\RepairJob.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\RepairJob.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\RepairJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:25:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobFactory.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\JobFactory.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\JobFactory.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\JobFactory.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\JobFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:30:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDD_tech\\Program.cs",
+              "RelativeDocumentMoniker": "EDD_tech\\Program.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDD_tech\\Program.cs",
+              "RelativeToolTip": "EDD_tech\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:14:40.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:26:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:25:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\Supplier.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\Supplier.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\Supplier.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:38:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotifierAdapter.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\NotifierAdapter.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\NotifierAdapter.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\NotifierAdapter.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\NotifierAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:30:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\Notification.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\Notification.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\Notification.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:29:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimplePricingStratogey.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\SimplePricingStratogey.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\SimplePricingStratogey.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\SimplePricingStratogey.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\SimplePricingStratogey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:29:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PricingStratogey.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\PricingStratogey.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Patterns\\PricingStratogey.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Patterns\\PricingStratogey.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Patterns\\PricingStratogey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:28:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Repo\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Repo\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Repo\\InMemoryRepository.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Repo\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:27:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Repo\\IRepository.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Repo\\IRepository.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Repo\\IRepository.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Repo\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:27:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\JobStatus.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\JobStatus.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\JobStatus.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:24:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepairTask.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\RepairTask.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\RepairTask.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\RepairTask.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\RepairTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:24:12.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\Equipment.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\Equipment.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\Equipment.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:23:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "EDDConsoleApp\\ConsoleApp\\Domain\\User.cs",
+              "ToolTip": "C:\\Files\\BSE 5th Sem\\SCD\\Solutions\\EDD_tech\\EDDConsoleApp\\ConsoleApp\\Domain\\User.cs",
+              "RelativeToolTip": "EDDConsoleApp\\ConsoleApp\\Domain\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:23:19.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
